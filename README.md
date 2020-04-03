@@ -1,0 +1,1 @@
+This is Clint's first git project!
